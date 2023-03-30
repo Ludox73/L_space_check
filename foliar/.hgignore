@@ -1,0 +1,8 @@
+slurm_out
+slurm_error
+regina_wrap/pyregina.cpp
+regina_wrap/dist
+regina_wrap/build
+
+syntax: glob
+*.pyc

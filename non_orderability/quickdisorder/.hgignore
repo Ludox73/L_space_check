@@ -1,0 +1,7 @@
+build
+dist
+quickdisorder.egg-info
+
+syntax: glob
+src/cython/*.c
+*.pyc
